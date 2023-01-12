@@ -1,0 +1,8 @@
+{ 
+  "IsEncrypted": false,
+  "Values": {
+    "LogicAppUrl": "https://xxxx.logic.azure.com:443/xxxx",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
