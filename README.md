@@ -1,0 +1,2 @@
+# ThingsEventGridTrigger
+ThingsEventGridTrigger
